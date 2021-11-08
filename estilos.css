@@ -1,0 +1,13 @@
+.texto
+{
+	background: #ccc;
+	height: 220px;
+	margin: 2rem auto;
+	text-align: center;
+	width: 300px;
+
+}
+.texto p 
+{
+	padding-top: 75px;
+}
